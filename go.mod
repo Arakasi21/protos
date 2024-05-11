@@ -1,4 +1,4 @@
-module sso
+module github.com/Arakasi21/protos
 
 go 1.22
 
